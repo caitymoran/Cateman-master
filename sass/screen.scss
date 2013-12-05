@@ -1,0 +1,92 @@
+// Reset no longer needed if you're using Bootstrap. But add it back if you don't want to use Bootstrap.
+// @import "reset";
+
+* {
+    background-repeat: no-repeat;
+}
+
+body {
+    // background: pink;
+    margin-top: 51px;
+}
+.picture {
+    // width: 1000px;
+    height: 100%;
+    background: no-repeat center center;
+}
+section {
+    // position: relative;
+}
+.description {
+    position: absolute;
+    max-width: 1000px;
+    bottom: 51px;
+    left: 0;
+    color: white;
+    background: rgba(24,24,24, .7);
+    padding: 7px;
+    h4 {
+        margin: 0 0 3px 0;
+    }
+}.navpage {
+    background-color: pink;
+    // padding-top: 70px;
+}
+.boat {
+    background-image: url(/images/boat.jpg);
+}
+.boy {
+    background-image: url(/images/boy.jpg);
+}
+.braveheart {
+    background-image: url(/images/braveheart.jpg);
+}
+.clock {
+    background-image: url(/images/clock.jpg);
+}
+.cow {
+    background-image: url(/images/cow.jpg);
+}
+.desert {
+    background-image: url(/images/desert.jpg);
+}
+.desktop {
+    background-image: url(/images/desktop.jpg);
+}
+.dirt {
+    background-image: url(/images/dirt.jpg);
+}
+.dogs {
+    background-image: url(/images/dogs.jpg);
+}
+.hiker {
+    background-image: url(/images/hiker.jpg);
+}
+.leaves {
+    background-image: url(/images/leaves.jpg);
+}
+.palette {
+    background-image: url(/images/palette.jpg);
+}
+.prison {
+    background-image: url(/images/prison.jpg);
+}
+.rain {
+    background-image: url(/images/rain.jpg);
+}
+.stonehenge {
+    background-image: url(/images/stonehenge.jpg);
+}
+.vw {
+    background-image: url(/images/vw_bus.jpg);
+}
+.waves {
+    background-image: url(/images/waves.jpg);
+}
+
+@media screen and (min-width: 800px) {
+    body {
+        // background: orange;
+    }
+
+}

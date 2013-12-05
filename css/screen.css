@@ -1,0 +1,97 @@
+* {
+  background-repeat: no-repeat;
+}
+
+body {
+  margin-top: 51px;
+}
+
+.picture {
+  height: 100%;
+  background: no-repeat center center;
+}
+
+.description {
+  position: absolute;
+  max-width: 1000px;
+  bottom: 51px;
+  left: 0;
+  color: white;
+  background: rgba(24, 24, 24, 0.7);
+  padding: 7px;
+}
+.description h4 {
+  margin: 0 0 3px 0;
+}
+
+.navpage {
+  background-color: pink;
+}
+
+.boat {
+  background-image: url(/images/boat.jpg);
+}
+
+.boy {
+  background-image: url(/images/boy.jpg);
+}
+
+.braveheart {
+  background-image: url(/images/braveheart.jpg);
+}
+
+.clock {
+  background-image: url(/images/clock.jpg);
+}
+
+.cow {
+  background-image: url(/images/cow.jpg);
+}
+
+.desert {
+  background-image: url(/images/desert.jpg);
+}
+
+.desktop {
+  background-image: url(/images/desktop.jpg);
+}
+
+.dirt {
+  background-image: url(/images/dirt.jpg);
+}
+
+.dogs {
+  background-image: url(/images/dogs.jpg);
+}
+
+.hiker {
+  background-image: url(/images/hiker.jpg);
+}
+
+.leaves {
+  background-image: url(/images/leaves.jpg);
+}
+
+.palette {
+  background-image: url(/images/palette.jpg);
+}
+
+.prison {
+  background-image: url(/images/prison.jpg);
+}
+
+.rain {
+  background-image: url(/images/rain.jpg);
+}
+
+.stonehenge {
+  background-image: url(/images/stonehenge.jpg);
+}
+
+.vw {
+  background-image: url(/images/vw_bus.jpg);
+}
+
+.waves {
+  background-image: url(/images/waves.jpg);
+}
