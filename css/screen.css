@@ -92,6 +92,34 @@ body {
   background-image: url(/images/waves.jpg);
 }
 
+.about {
+  background-image: url(/images/camera.jpg);
+  margin-top: 50px;
+}
+.about h2 {
+  padding: 50px;
+  opacity: 1;
+}
+.about p {
+  padding: 0 50px 50px 50px;
+}
+.about img {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  float: left;
+  clear: both;
+  margin-right: 10px;
+}
+.about div {
+  height: 150px;
+  width: 500px;
+  margin: 0 auto;
+}
+.about div h4 {
+  padding-top: 20px;
+}
+
 .contact {
   width: 100%;
   background-image: url(/images/photo_backdrop.JPG);
